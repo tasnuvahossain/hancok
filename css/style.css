@@ -1,0 +1,1038 @@
+body{
+ background: #111010;
+    font-family: 'Oswald', sans-serif;
+}
+/* ================nav css start============= */
+
+.container{
+ max-width: 1320px !important;
+ position: relative;
+}
+.nab-top-right{
+    margin-left: 25px;
+    margin-right: 36px;
+}
+.nab-top{
+ font-weight: 400;
+ font-size: 20px;
+ color: white;
+}
+.nav-item a{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #DDDDDD;
+    margin-left: 30px;
+    }.nav-item a:hover {
+        color: #DDDDDD;
+
+
+        }
+       .navbar{
+ position: absolute;
+width: 100%;
+z-index: 999;
+       }
+/* ================nav css end============= */
+/* ================banner css start============= */
+
+
+        .banner-text{
+            color: #fff;
+        }
+        .banner-text a{
+            background: #fff;
+            text-decoration: none;
+ padding: 13PX 24PX;
+
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+      color: #100f0f;
+        }
+
+.banner-text  a svg{
+    margin-left: 4px;
+}
+.banner-text  h4{
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 3px;
+ padding-top: 337px;
+}
+.banner-text  h1{
+
+font-size: 60px;
+font-weight: 600;
+line-height: 89px ;
+position: relative;
+    }
+ .banner-text  h1::after{
+  content: "";
+  width: 90px;
+  height: 4PX;
+  background-color: #DDDDDD;
+  position: absolute;
+ bottom: 17px;
+  right: 31px;
+  border-radius: 8px;
+            }
+ .banner-text  p{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+ padding-bottom: 48px;
+ Width:
+ 523px;
+ }
+#BANNER-PART{
+
+        position: relative;
+        background: url("../imgs game/banner\ 1.png ") no-repeat center;
+ background-size:cover ;
+ height: 1080px !important;
+
+height: 1080px;
+flex-shrink: 0;
+
+    }
+    .banner-icon{
+
+        margin-top: 310px;
+
+    }
+    .banner-icon i{
+   width: 35PX;
+   height: 35PX;
+   border-radius:50%;
+ text-align: center;line-height: 35PX;
+   background-color: #DDDDDD;
+   color: #000;
+   font-size: 20PX;
+margin-right: 20PX;
+margin-bottom: 103PX;
+    }
+/* ================banner css end============= */
+ /* ================ABOUT css start============= */
+
+#ABOUT{
+    background: #121212;
+ 
+
+}
+#ABOUT .ABOUT-wraper h2{
+padding-top: 34px;
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+color: #FFFFFF;
+Width:
+518px;
+
+}
+.part-2img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.ABOUT-wraper ul li {
+    list-style: none;
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+     color: #FFFFFF;
+
+    text-align: left;
+   margin-bottom: 10px;
+
+
+     }
+     .ABOUT-wraper ul{
+       margin: 0;
+       padding: 0;
+     }
+     .ABOUT-wraper .part2-text h3 {
+
+        font-size: 27px;
+        font-weight: 600;
+        line-height: 40px;
+ color: #fff;
+         }
+         .part2-icon{
+            margin-right: 10px;
+         }
+
+         .ABOUT-wraper p {
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 27px;
+    color: #FFFFFF;
+         Width: 468px;
+
+
+         margin-top: 3px;
+        }
+    .part2-text{
+        margin-left: 82px;
+    }
+    .part2-botton{
+        margin-left: 7px;
+    }
+    .part2-a{
+        text-decoration: none;
+        color: #FFF;
+ padding: 13px 24px;
+ background: #212121;;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 30px;
+display: inline-block;
+    }
+   .part2-bottom{
+    margin-top: 57px;
+ 
+   }
+   .part2-div .div1{
+ width: 300px;
+height: 170px;
+background: #212121;
+border-radius: 0px 50px;
+margin-top: 50px;
+ text-align: center;
+ margin-right: 20px;
+   }
+
+   .part2-div{
+    margin-left: 20px;
+    padding-bottom: 81PX;
+   }
+ .part2-div .div1 h3{
+    color: #FFFFFF;
+       font-size: 60px;
+       font-weight: 600;
+       line-height: 72px;
+       margin-top: 26px;
+ position: relative;
+      }  
+.part2-div .div1 h3::after{
+    content: "";
+    width: 12px;
+    height: 12PX;
+    background: #FF4655;
+    position: absolute;
+    bottom: 10px;
+    right: 53px;
+    border-radius: 50%;
+z-index: 999;
+ }  
+ .part2-div h6{
+        color: #FFFFFF;
+ 
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 27px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        margin-top: 18px;
+ text-align: center;
+          }
+
+ /* ================ABOUT css end============= */
+ /* ================populer css start============= */
+#papular{
+    background-color: #212529;;
+}
+ .populer-wraper{
+ width: 100%;
+ 
+ }  .populer-wraper h2{
+ 
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 46px;
+    letter-spacing: 0.07em;
+    text-align: right;
+    color:  #FFFFFF;
+padding-top: 131px;
+   padding-bottom: 80px;
+   position: relative;
+    }
+    .populer-wraper h2::after{
+        content: "";
+        width: 105px;
+        height: 4px;
+  border-radius: 3px;
+     background: #FF4655;
+     position: absolute;
+     bottom: 86px;
+     right: 139px;
+        }
+    .popuier-1{
+        padding-top: 106px;
+padding-bottom: 74px;
+    }
+    .popular-img2{
+        width: 100%;
+    }
+    .popular-botton1{
+        width: 40px;
+        height: 40px;
+border-radius: 50%;
+border: 1px solid  #FFFFFF;
+line-height: 40px;
+align-items: center;
+opacity: 100%;
+ top:649px;
+ left: 1256px;
+ 
+    }    .popular-botton2{
+        width: 40px;
+        height: 40px;
+border-radius: 50%;
+border: 1px solid  #FFFFFF;
+line-height: 40px;
+align-items: center;
+opacity: 100%;
+top: 589px;
+    }
+ /* ================populer css end============= */
+ /* ================VIDEO css start============= */
+ .video-part h2{ 
+font-size: 38px;
+font-weight: 600;
+line-height: 56px;
+ color: #FFFFFF;
+text-align: left;
+Width:446px;
+padding-top: 90px;
+position: relative;
+ }
+ .video-part h2::after{
+    content: "";
+  
+    width: 105px;
+    height: 4px;
+border-radius: 3px;
+ background: #FF4655;
+ position: absolute;
+ bottom: 10px;
+ left: 146px;
+ }
+ .video-part-img{
+    margin-top: 68px;
+ 
+ }
+ .vedio-part-1img{
+    filter: grayscale(99%);
+transition: .4s;
+width:427px;
+height: 275px;
+ position: relative;
+ padding-top: 20px;
+    } 
+    .vedio-icon{
+        position: absolute;
+        margin-top: -172px;
+        margin-left: 175px;
+        width: 70px;
+        height: 70px;
+        border: 1px solid #fff;
+        border-radius: 50%;
+         color: #FFF;
+         font-size: 22px;
+         text-align: center;
+ align-items: center;
+ line-height: 70px;
+    }
+.vedio-part-1img:hover{
+        filter: grayscale(0%);
+        width: 426px;
+height: 295.131px;
+ 
+ 
+        }
+        .video-part-bottom h4{
+            font-size: 25px;
+            font-weight: 500;
+            line-height: 30px;
+           padding-bottom: 50px;
+ text-align: center;
+    color: #FFF;
+ 
+            letter-spacing: 2.25px;
+        text-transform: uppercase;
+        }
+        .video-part-bottom{
+            margin-top: 70px;
+        }
+        .frist-div{
+ width: 100%;
+ height:118px ;
+ display: flex;
+ align-items: center;
+ background: #212121;
+ gap: 40px;
+ clip-path: polygon(0 1%, 100% 0, 87% 100%, 0% 100%);
+ gap: 120px;
+ 
+}
+    .frist-div h6{
+        
+            font-size: 30px;
+            font-weight: 500;
+            line-height: 30px;
+            letter-spacing: 0.03em;
+ color:  #FFFFFF;
+ 
+        }
+        .time1{
+            color: #FFFFFF;
+font-size: 40px;
+font-weight: 500;
+line-height: 112px;
+ text-align: center;
+ 
+        }
+        .frist-div1{
+            width: 100%;
+            height:118px ;
+            display: flex;
+      align-items: center;
+      justify-content: space-between;
+            background: #212121;
+            gap: 40px;
+            clip-path: polygon(0 1%, 100% 0, 100% 100%, 12% 100%);
+             
+           }  
+           .frist-div1 h6{
+        
+            font-size: 30px;
+            font-weight: 500;
+            line-height: 30px;
+            letter-spacing: 0.03em;
+ color:  #FFFFFF;
+ margin-left: 30px;
+        }.stecar1{
+            padding-bottom: 59px;
+        }.stecar2{
+            padding-bottom: 90px;
+        }
+ /* ================VIDEO css end============= */
+ /* ================FRIDAY SALE css start============= */
+ .card-text h3{
+    color: #FFF;
+ 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.54px;
+    padding-bottom: 20px;
+}.card-text h4{
+    color: #666;
+ 
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.6px;
+ padding-bottom: 20px;
+}.card-text h6{
+    color: #FFF;
+    text-align: center;
+ 
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1.4px;
+    background: #FF4655;
+    width: 40px;
+    height: 30px;align-items: center;
+    margin-bottom: 60px;
+}
+.friday-img {
+    display: flex;
+gap: 10px;
+ margin-bottom: 20px;
+}
+del{
+ color: 
+ #666666;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+.card-text h5{
+   
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+  color: #FFFFFF ;
+ 
+}
+ #FRIDAY_SALE{
+   background: #212529 ; 
+   padding-bottom: 90px; 
+ }
+ .bottom-friday{
+    color: #FFF;
+ 
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+ }
+ .FRIDAY_SALE  h2{
+    color: #FFF;
+ text-align: right;
+font-size: 38px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 2.66px;
+ position: relative;
+ } 
+.FRIDAY_SALE h2::after{
+    content: "";
+    width: 105px;
+    height: 4px;
+border-radius: 3px;
+ background: #FF4655;
+ position: absolute;
+ bottom: 10px;
+ right:108px;
+ 
+ }
+ .hancok{
+    background: #212121;
+ 
+ }
+ .hancok h6 {
+ 
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+ color: #FF4655;
+    padding-top: 45px;
+ } .hancok p{
+ color: 
+ #666666;
+ padding-top: 16px;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+ padding-bottom: 25px;
+ }.hancok h2{ 
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 46px;
+ color: #FFFFFF;
+    padding-top: 15px;
+ }.hancok a{
+    width: 128px;
+height: 50px;
+flex-shrink: 0;
+ background-color: #121212;
+ color: #FFFFFF;
+ padding: 13px 31px;
+ text-decoration: none;
+ 
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+ 
+ }
+.hancok-text{
+    padding-left: 44px;
+}
+.hancok-img{
+    width: 426px;
+    height: 370px;
+ 
+ display: inline;
+margin:  42px 111px;
+    
+}
+ /* ================FRIDAY SALE css end============= */
+ /* ================ ALL GAMING css start============= */
+.all-gaming-text h2{ 
+    color: #FFF;
+    color: #FFF;
+ 
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 2.66px;
+    position: relative;
+}
+.all-gaming-text h2::after{
+    content: "";
+    width: 105px;
+    height: 4px;
+border-radius: 3px;
+ background: #FF4655;
+ position: absolute;
+bottom:  8px;
+left: 224px;
+
+}
+.all-gaming1{
+    background: #212121;
+   text-align: center;
+  }
+  .all-gaming1 h5 { 
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: 
+    #FFFFFF;
+  
+  }  .all-gaming1 h4 {  
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 45px;
+  } .all-gaming1 h6 {   
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FF4655;
+    padding-top: 7px;
+  }
+  .all-gaming1 img{
+    margin-top: 7px;
+  } 
+  .all-gaming1{
+    padding: 22px 38px;
+  } .gaming-img{
+    padding-top: 102px;
+  }
+  .ALL-GAMING{
+ background-color:
+ #121212 ;
+ padding: 90px 1px;
+  }
+  .gaming-bottom1{
+    width: 50px;
+    height: 50px;
+border-radius: 50%;
+    background:#FF4655 ;
+    color: #FFF;
+    opacity: 100%;
+ border: 1px solid #fff;
+ top:332px!important;
+ left: -21px !important;
+ display: inline-block;
+  }
+ .gaming-bottom2{
+    width: 50px;
+    height: 50px;
+border-radius: 50%;
+    background:#FF4655 ;
+    color: #FFF;
+    opacity: 100%;
+ border: 1px solid #fff;
+ top:332px!important;
+right: -21px !important;
+ display: inline-block;   
+ }
+ /* ================ ALL GAMING css end============= */
+ /* ================ PROFESSIONAL css START============= */
+ 
+ .professionaltop{ 
+ 
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 46px;
+ 
+    text-align: right;
+    color: #FFFFFF;
+    position: relative;
+ 
+ }.professionaltop::after{ 
+    content: "";
+    width: 105px;
+    height: 4px;
+border-radius: 3px;
+ background: #FF4655;
+ position: absolute;
+ bottom: 10px;
+ right:108px;
+ }
+.team-1-text h2{
+    color: #FFF;
+ 
+font-family: Barlow Condensed;
+color: #FFFFFF;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+padding-top: 4px;
+ }.team-1-text p{
+    color: #FFF;
+    font-family: Oswald;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 6px;
+    padding-bottom: 20px;
+    width: 300px;
+ }.team-1-text a{
+    color: #FFF;
+    font-family: Oswald;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    background: #FF4655;
+    padding: 4px 20px;
+ 
+ }
+ .team-1-text-icon i{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: #FF4655;
+    color: #FFF;
+    text-align: center;
+    line-height: 35px;
+ margin-left: 20px;
+    border: 1px solid #000;
+ }
+ .team-1-text-icon{
+padding-top:147px ;
+padding-left: 117px;
+ 
+
+ }
+ .professiomal-img-top-1{
+    position: relative;
+ overflow: hidden;
+ margin-bottom: 20px;
+ }
+ .team-1-text{
+    position: absolute;
+ bottom: -154px;
+ left: 0;
+ border: 1px solid rgba(0, 0, 0, 0.00);
+ background: rgba(37, 36, 36, 0.38);
+width: 650px;
+padding:20px;
+transition: .4s;
+} 
+.team-1-text:hover{
+ 
+ bottom:0px;
+ 
+} 
+.professiomal-img{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+ /* ================ PROFESSIONAL css end============= */
+ /* ================ faq-content css start============= */
+.faq-content-part h2{
+ 
+font-size: 38px;
+font-weight: 600;
+line-height: 46px;
+letter-spacing: 0.1em;
+text-align: left;
+color: #FFFFFF;
+position: relative;
+}
+.faq-content-part h2::after{
+    content: "";
+    width: 105px;
+    height: 4px;
+border-radius: 3px;
+ background: #FF4655;
+ position: absolute;
+bottom:  8px;
+left:  431px;
+
+}
+.faq-content-part-bottom .div-number-2 h3{
+    color: #FFFFFF;
+ padding-bottom: 11px;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    transition: .4s;
+}.faq-content-part-bottom .div-number-2 h3:hover{
+    color: #FF4655;
+ 
+}
+ 
+.faq-content-part-bottom .div-number-1{
+    width: 70px;
+height: 70px;
+flex-shrink: 0;
+background: #FF4655;
+color: #FFF;
+ align-items: center;
+ text-align: center;
+ line-height: 70px;
+font-size: 38px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 3.8px;
+
+}
+.faq-content-part-bottom1{
+    display: flex;
+    gap: 33px;
+}
+.faq-content-part-bottomtop{
+ padding-top: 92px;
+    position: relative;
+}.faq-content-part-bottomtop::after{
+    content: "";
+    width: 1320px;
+    height: 1px;
+border-radius: 3px;
+background: #666666;
+
+ position: absolute;
+bottom: 10px;
+left:  0px;
+
+}
+.faq-content-part-bottomtop2{
+    padding-top: 75px;
+ 
+}
+.faq-content-part-bottom{
+    position: relative;
+ 
+ 
+}.faq-content-part-bottom::after {
+    content: "";
+    border-radius: 3px;
+    position: absolute;
+    top:95px;
+    left: 655px;
+    width: 1px;
+    height: 398px;
+    background: #666;
+}
+ 
+.faq-content-part-bottom2{
+    padding-left: 121px;
+    display: flex;
+    gap: 33px;
+}
+.faq-content-part-bottom .div-number-2 p {
+    color: #666;
+    padding-bottom: 81px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 427px; 
+}
+#faq-content{
+    position: relative;
+    background: #121212;
+    padding-bottom: 150px;
+}
+#faq-content .subscriba{
+bottom:-234px;
+left: 0;
+    background: #FF4655;
+position: absolute;
+ 
+} #faq-content .subscriba p {
+    color: #FFF;
+  
+ 
+ 
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    text-transform: uppercase;
+ padding-left: 30px;
+ padding-top: 34px;
+ padding-bottom: 35px;
+
+}
+ 
+#faq-content .subscriba .emailinput{
+    width: 409px;
+height: 40px;
+border-radius: 30px;
+background: #FFF;
+position: relative;
+margin-top: 79px;
+    margin-left: 76px;
+}
+#faq-content .subscriba h6{
+    color: #666;
+ position: absolute;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+z-index: 9999;
+margin-top: 84px;
+    margin-left: 100px;
+ 
+}#faq-content .subscriba .botton-s{
+ 
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #000;
+    color: #FFF;
+    padding: 10px 28px;
+    border-radius: 30px;
+ position: absolute;
+ bottom: 61px;
+ right:40px;
+}
+  
+ /* ================ faq-content css end============= */
+ /* ================ faq-content-bottom css start============= */
+ #faq-content-bottom{
+background: #191919;
+padding-top: 112px;
+
+ }
+ #faq-content-bottom .faq-content-bottom-wraper p{
+ padding-top: 30px;
+    font-family: Oswald;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;    
+color: #666666;
+ }
+ .faq-content-bottom-ul{
+display: flex;
+gap: 10px;
+padding-top: 60px;
+margin: 0;
+padding: 0;
+ }
+ .faq-content-bottom-ul li{
+ margin-top: 60px;
+ margin-bottom: 92px;
+list-style: none;
+ 
+ }
+ .faq-contentf{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 30px;
+ background: #212529;
+    color: #FFF;
+line-height: 50px;
+ text-align: center;
+ transition: .4s;
+
+} .faq-contentf:hover{
+ background: #FF4655;
+} 
+.faq-content-bottom-wraper .last-2ul ul li{
+    font-family: Oswald;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+ color: 
+ #666666;
+transition: .4s;
+list-style: none;
+margin-top: 30px;
+ }.faq-content-bottom-wraper .last-2ul ul {
+  margin-top: 12px;
+ }  
+    .faq-content-bottom-wraper .last-2ul ul li:hover{
+ 
+ color: 
+ #FF4655
+
+ }
+ .faq-content-bottom-wraper .last-2ul ul .last-active-2ul{
+ 
+font-size: 25px;
+font-weight: 600;
+line-height: 30px;
+ color: 
+ #FFFFFF;
+ } 
+ .faq-content-bottom-wraper .last-2ul{
+    display: flex;
+    gap: 155px;
+ }.faq-content-bottom-wraper h3{
+ 
+font-size: 25px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0.07em;
+text-align: left;
+color: #FFF;
+margin-top: 42px;padding-bottom: 30px;
+
+ } 
+ 
+ .footer-last-img{
+  padding-left: 114px;
+ 
+ }#footer{
+ height: 99px;
+ background: #191919;
+
+ }#footer h3{
+ 
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+ text-align: center;
+color: #FFF;
+padding-top: 25px;
+ }
+ #footer h3 .color{
+    color: 
+    #FF4655;
+ 
+ } #footer .line {
+    width:  100%;
+    height:2px;
+    background-color:#6666;
+ 
+ }
+ /* ================ faq-content-bottom css end============= */
